@@ -104,7 +104,6 @@ iris-classification/
 │   └── iris_classification.py  # Main script
 │
 ├── README.md                # Project documentation
-├── requirements.txt         # Python dependencies
 │
 └── outputs/                 # Generated visualizations
     ├── iris_pairplot.png
